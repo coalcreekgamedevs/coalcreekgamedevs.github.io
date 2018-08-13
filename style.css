@@ -2,12 +2,12 @@ body {
 	background-color:#FFF;
 }
 
-img {
+main header {
     max-height: 100px;
     max-width: 200px;
 }
 
-article {
+main article {
     padding-top: 50px;
     padding-right: 50px;
     padding-bottom: 0px;
