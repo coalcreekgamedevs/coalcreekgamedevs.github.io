@@ -1,5 +1,9 @@
-body{
+body {
 	background-color:#FFF;
+}
+
+header {
+    max-width: 720px;
 }
 
 article {
