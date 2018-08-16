@@ -2,17 +2,17 @@ body {
 	background-color:#FFF;
 }
 
-main article {
-    padding-top: 50px;
+header {
+    margin: 50px;
+}
+
+nav {
+    padding-top: 25px;
     padding-right: 50px;
-    padding-bottom: 0px;
+    padding-bottom: 25px;
     padding-left: 50px;
 }
 
-/*
-main div {
-    padding-top: 50px;
-    padding-right: 50px;
-    padding-bottom: 0px;
-    padding-left: 50px;
+#evittWidgetEmbed {
+    margin: 50px;
 }
