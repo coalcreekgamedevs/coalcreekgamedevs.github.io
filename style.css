@@ -1,9 +1,17 @@
 body {
-	background-color:#FFF;
+    background-color:#FFF;
 }
 
-header {
-    margin: 50px;
+h2 {
+    padding: 1em;
+}
+
+h4 {
+    padding: 1em;
+}
+
+footer {
+    padding: 1em;
 }
 
 #evittWidgetEmbed {
