@@ -2,16 +2,20 @@ body {
     background-color:#FFF;
 }
 
-h2 {
-    padding: 1em;
+h3 {
+    padding-top: 0.5em;
 }
 
-h4 {
-    padding: 1em;
+h5 {
+    padding-bottom: 1em;
 }
 
 footer {
     padding: 1em;
+}
+
+.social-nav {
+    padding-bottom: 1em;
 }
 
 #evittWidgetEmbed {
