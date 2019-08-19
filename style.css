@@ -2,20 +2,22 @@ body {
     background-color:#FFF;
 }
 
-h3 {
-    padding-top: 0.5em;
-}
-
-h5 {
-    padding-bottom: 1em;
-}
-
 footer {
+    padding: 1em;
+}
+
+.jumbotron-fluid {
     padding: 1em;
 }
 
 .social-nav {
     padding-bottom: 1em;
+}
+
+#desc-text {
+    padding: 1.5em;
+    padding-left: 3em;
+    padding-right: 3em;
 }
 
 #evittWidgetEmbed {
